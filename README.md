@@ -1,2 +1,8 @@
 # School_District_Analysis
-Module 4 of Jupyter Data with Python 
+## Overview of the school district analysis
+## Results: 
+### How is the district summary affected?
+
+### How is the school summary affected?
+
+### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
