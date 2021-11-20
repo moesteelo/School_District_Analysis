@@ -3,6 +3,53 @@
 ## Results: 
 ### How is the district summary affected?
 
+The district summary was affected because we eliminated the ninth-grade count form Thomas High School. Before making this change the total district student count was 39,170 students. After we made the change the total district summary student total count is 38, 709 students. 
+
+![image](https://user-images.githubusercontent.com/91576834/142735370-24916f2b-6b59-4fa3-9a39-99a8b1d13d9a.png)
+![image](https://user-images.githubusercontent.com/91576834/142735377-e5cfc003-5898-46bd-9a89-25d1d075f27f.png)
 ### How is the school summary affected?
 
+The school summary data frame had some effect in the overall “% Passing math”, “% Passing Reading” and “% Overall Passing”. Though the effect were very minor and were not a much of a noticeable difference.  
+
+Ninth graders with a NaN Data Frame:
+![image](https://user-images.githubusercontent.com/91576834/142735467-bc4e5744-1fb6-4b6e-90b7-bef72f1dc14a.png)
+
+
+Ninth graders scores counted Data Frame: 
+![image](https://user-images.githubusercontent.com/91576834/142735441-8ab124cb-e2c0-42ba-aca5-4523abe4eca3.png)
+
 ### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+
+Replacing the ninth graders with a Nan had some effect to the overall performance of the school in comparison to the other schools, but the change in overall scores were not drastic. Even with ninth graders math and reading scores being removed Thomas High School was still in the top five schools.
+
+### How does replacing the ninth-grade scores affect the following:
+- Math and reading scores by grade: 
+-  
+  For Thomas High School the ninth-grade scores were replaced with a NaN, but 10th-12th scores were not affected.
+  
+![image](https://user-images.githubusercontent.com/91576834/142735551-da263778-7aee-4e16-8df5-a445b42c07cb.png)
+![image](https://user-images.githubusercontent.com/91576834/142735559-b6972425-3018-43c6-ab38-6eeb17c71975.png)
+
+- Scores by school spending:
+- Thomas High School still had the same spending size as before even after the changes were made to the Ninth grade.
+![image](https://user-images.githubusercontent.com/91576834/142735776-4d1ea4c4-a69d-4d22-a93b-826129f35ac8.png)
+
+-	Scores by school size:
+
+According the chart above the school size was relatively the same because the data did not eliminate the ninth grade students from the total student body.
+
+
+- Scores by school type:
+
+Thomas High School is a charter school and even after the changes were made to ninth grade reading and math scores. Charter school's still perform at a much higher rate than compared to District School's. 
+![image](https://user-images.githubusercontent.com/91576834/142735823-181f63d5-9754-4d5f-98d6-144189c0f634.png)
+
+![image](https://user-images.githubusercontent.com/91576834/142735814-bc20d269-5d39-43cc-82b6-e9790760e2dd.png)
+
+
+
+
+
+
+
+
