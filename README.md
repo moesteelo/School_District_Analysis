@@ -1,5 +1,6 @@
 # School_District_Analysis
 ## Overview of the school district analysis
+The purpose of this analysis is to remove the ninth grade reading and math scores from Thomas High School based on academic dishonesty. We are determining what kind of effect will it have on the overall performace of the school and how it would change the overall school district summary analysis. 
 ## Results: 
 ### How is the district summary affected?
 
@@ -42,9 +43,12 @@ According the chart above the school size was relatively the same because the da
 - Scores by school type:
 
 Thomas High School is a charter school and even after the changes were made to ninth grade reading and math scores. Charter school's still perform at a much higher rate than compared to District School's. 
+
 ![image](https://user-images.githubusercontent.com/91576834/142735823-181f63d5-9754-4d5f-98d6-144189c0f634.png)
 
 ![image](https://user-images.githubusercontent.com/91576834/142735814-bc20d269-5d39-43cc-82b6-e9790760e2dd.png)
+
+
 
 
 
