@@ -32,6 +32,7 @@ Replacing the ninth graders with a Nan had some effect to the overall performanc
 
 - Scores by school spending:
 - Thomas High School still had the same spending size as before even after the changes were made to the Ninth grade. School spending per student was between $630-$644 per student. 
+
 ![image](https://user-images.githubusercontent.com/91576834/142735776-4d1ea4c4-a69d-4d22-a93b-826129f35ac8.png)
 
 -	Scores by school size:
