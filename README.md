@@ -6,18 +6,18 @@ The purpose of this analysis is to remove the ninth grade reading and math score
 
 The district summary was affected because we eliminated the ninth-grade count form Thomas High School. Before making this change the total district student count was 39,170 students. After we made the change the total district summary student total count is 38, 709 students. 
 
-![image](https://user-images.githubusercontent.com/91576834/142735370-24916f2b-6b59-4fa3-9a39-99a8b1d13d9a.png)
-![image](https://user-images.githubusercontent.com/91576834/142735377-e5cfc003-5898-46bd-9a89-25d1d075f27f.png)
+![image](https://user-images.githubusercontent.com/91576834/143159886-03113d12-30d9-4402-bedd-f61b0b5b1496.png)
+![image](https://user-images.githubusercontent.com/91576834/143159914-b5e1ef3a-7cdc-43f8-91f5-e31eb721d078.png)
 ### How is the school summary affected?
 
 The school summary data frame had some effect in the overall “% Passing math”, “% Passing Reading” and “% Overall Passing”. Though the effect were very minor and were not a much of a noticeable difference.  
 
 Ninth graders with a NaN Data Frame:
-![image](https://user-images.githubusercontent.com/91576834/142735467-bc4e5744-1fb6-4b6e-90b7-bef72f1dc14a.png)
+![image](https://user-images.githubusercontent.com/91576834/143159802-deadddce-0fef-4767-b130-32b9b505bc76.png)
 
 
 Ninth graders scores counted Data Frame: 
-![image](https://user-images.githubusercontent.com/91576834/142735441-8ab124cb-e2c0-42ba-aca5-4523abe4eca3.png)
+![image](https://user-images.githubusercontent.com/91576834/143159816-ba587115-133d-44f5-9d3e-477bcc9b4472.png)
 
 ### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
@@ -28,12 +28,12 @@ Replacing the ninth graders with a Nan had some effect to the overall performanc
 -  
   For Thomas High School the ninth-grade scores were replaced with a NaN, but 10th-12th scores were not affected.
   
-![image](https://user-images.githubusercontent.com/91576834/142735551-da263778-7aee-4e16-8df5-a445b42c07cb.png) ![image](https://user-images.githubusercontent.com/91576834/142735559-b6972425-3018-43c6-ab38-6eeb17c71975.png)
+![image](https://user-images.githubusercontent.com/91576834/143160054-d0712523-a248-4cab-8aa1-839ada6107b2.png) ![image](https://user-images.githubusercontent.com/91576834/143160020-54d910d9-8563-4ffb-a26d-bf908d48cfdc.png)
 
 - Scores by school spending:
 - Thomas High School still had the same spending size as before even after the changes were made to the Ninth grade. School spending per student was between $630-$644 per student. 
 
-![image](https://user-images.githubusercontent.com/91576834/142735776-4d1ea4c4-a69d-4d22-a93b-826129f35ac8.png)
+![image](https://user-images.githubusercontent.com/91576834/143160154-ff820b13-f421-4171-86de-a7dc6d49cf19.png)
 
 -	Scores by school size:
 
